@@ -1,0 +1,54 @@
+{
+	"steps": 
+	[
+		{	
+			"sheet_name": "Test1",
+			"export_name": "test.csv",
+			"headers_dimension": {
+				"col_start" : 1,
+				"col_end" : 4,
+				"row_start" : 1,
+				"row_end": 1
+			},
+			"data_dimension": {
+				"col_start" : 1,
+				"col_end" : 4,
+				"row_start" : 2,
+				"row_end": 10
+			}
+		},
+		{	
+			"sheet_name": "Datas",
+			"export_name": "clients.csv",
+			"headers_dimension": {
+				"col_start" : 2,
+				"col_end" : 9,
+				"row_start" : 2,
+				"row_end": 2
+			},
+			"data_dimension": {
+				"col_start" : 2,
+				"col_end" : 9,
+				"row_start" : 3,
+				"row_end": 12
+			}
+		},
+		{
+			"sheet_name": "Datas",
+			"export_name": "commandes.csv",
+			"headers_dimension": {
+				"col_start" : 11,
+				"col_end" : 20,
+				"row_start" : 2,
+				"row_end": 2
+			},
+			"data_dimension": {
+				"col_start" : 11,
+				"col_end" : 20,
+				"row_start" : 3,
+				"row_end": 27
+			}
+		}
+	]
+		
+}
